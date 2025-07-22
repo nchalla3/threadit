@@ -15,7 +15,8 @@
 5. How do we validate that it works?
 - We know that Threadit works when real people are saving time by having a Jarvis-style dashboard of the important parts of discussions, ensuring that less time and energy is wasted in the minutiae and spent actually building
 6. What is our MVP?
-- Our minimum viable product is a Threadit that can simply read through a million messages
+- Our minimum viable product is a Threadit that can simply read through a million messages in Slack and provide summarized insights using the OpenAI NLP
 7. How can we build and measure success?
+- We can build this using monolithic architecture, measuring success as we hit various milestones in our authentication wrapper, database configuration, successful deployment to test servers, and successful usecases in our own experiences and then to our first real users.
 
 
